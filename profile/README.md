@@ -15,7 +15,7 @@ Welcome to the Flash Dash GitHub organization!
 
 ---
 
-# What is palera1n?
+# What is Flash Dash?
 
 Flash Dash is Dashboard for see your CPU Load and another system info
 
