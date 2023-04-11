@@ -4,8 +4,8 @@
   <a href="#">
     <img src="https://img.shields.io/badge/made%20with-love-E760A4.svg" alt="Made with love">
   </a>
-  <a href="https://dsc.gg/palera1n" target="_blank">
-    <img src="https://img.shields.io/discord/1067353571819016212?style=for-the-badge" alt="Discord">
+  <a href="https://discord.gg/d79URcMzhG" target="_blank">
+    <img alt="Discord" src="https://img.shields.io/discord/1067353571819016212?label=Discord&style=for-the-badge">
   </a>
 </p>
 
