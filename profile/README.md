@@ -1,4 +1,4 @@
-<h1 align="center">Flash Dash</h1>
+<h1 align="center">Flash-cinfo</h1>
 
 <p align="center">
   <a href="#">
@@ -10,13 +10,16 @@
 </p>
 
 <p align="center">
-Welcome to the Flash Dash GitHub organization!
+Привет, ты попал на гитхаб игры flashtap, найти ты можешь ее в наших репозиториях, так же если тебе будет интересно посмотреть на наш движок, то ты его тоже можешь найти в репозиториях
 </p>
 
 ---
 
-# What is Flash Dash?
-
-Flash Dash is Dashboard for see your CPU Load and another system info
+# Скриншоты Игры и движка:
+![flashtap](image/game.png)
+![engine1](image/engine1.png)
+![engine2](image/engine2.png)
+![engine3](image/engine3.png)
 
 ---
+--
