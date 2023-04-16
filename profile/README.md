@@ -16,10 +16,10 @@
 ---
 
 # Скриншоты Игры и движка:
-![flashtap](image/game.png)
-![engine1](image/engine1.png)
-![engine2](image/engine2.png)
-![engine3](image/engine3.png)
+![flashtap](https://github.com/flash-cinfo/.github/blob/main/profile/image/game.png)
+![engine1](https://github.com/flash-cinfo/.github/blob/main/profile/image/engine1.png)
+![engine2](https://github.com/flash-cinfo/.github/blob/main/profile/image/engine2.png)
+![engine3](https://github.com/flash-cinfo/.github/blob/main/profile/image/engine3.png)
 
 ---
 --
